@@ -58,7 +58,7 @@ dencrypter.py
 secret.key             # Generated AES/Fernet key (created automatically on first run)
 README.md              # This file
 
-**### ⚠️ Security Notes (read carefully)**
+**### Security Notes (read carefully)**
 - **Protect `secret.key`.** Anyone with access to `secret.key` can decrypt messages encrypted with it.
 - **Do not commit `secret.key` to version control.** Add it to `.gitignore`.
 - This tool is for **learning and small personal use**. For production encryption, follow rigorous key management: rotate keys, use secure storage (HSM / KMS), and conduct formal security reviews.
@@ -68,7 +68,7 @@ README.md              # This file
 ```gitignore
 secret.key
 
-### 🧪 Troubleshooting / FAQ
+### Troubleshooting / FAQ
 
 **Q:** I get `InvalidToken` on decrypt.  
 **A:** Make sure:
@@ -98,14 +98,14 @@ secret.key
 
 ---
 
-### 👨‍💻 Author
+### Author
 
 Created by **Prince Amoako Atta**  
 Cybersecurity Enthusiast | Data Analyst
 
 ---
 
-### 📜 License
+### License
 
 This project is open-source and free to use under the **MIT License**. See the `LICENSE` file for details.
 
