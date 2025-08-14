@@ -32,6 +32,7 @@ Install the required package:
 
 
 pip install cryptography
+
 ```bash
 ---
 ### Example Run (sample session)
@@ -50,7 +51,7 @@ $ python dencrypter.py
 Choose action - encrypt or decrypt: decrypt
 Paste the encrypted message: gAAAAABk...
 Decrypted Message:
-secret data
+secret data ```bash
 
 
 **### File Structure**
