@@ -65,7 +65,8 @@ README.md              # This file
 - Always **validate and sanitize inputs** if you integrate this into larger systems.
 
 **Add `secret.key` to `.gitignore`:**
-```gitignore
+``` bash
+gitignore
 secret.key
 
 
