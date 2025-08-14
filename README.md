@@ -30,7 +30,7 @@ This uses Fernet (which uses AES in CBC mode with HMAC for authentication under 
 
 Install the required package:
 
-```bash
+
 pip install cryptography
 
 ---
@@ -51,7 +51,7 @@ Choose action - encrypt or decrypt: decrypt
 Paste the encrypted message: gAAAAABk...
 Decrypted Message:
 secret data
-```bash
+
 
 **### File Structure**
 dencrypter.py
