@@ -53,7 +53,7 @@ Decrypted Message:
 secret data
 ````
 
-**### File Structure**
+### File Structure
 dencrypter.py
 secret.key             # Generated AES/Fernet key (created automatically on first run)
 README.md              # This file
@@ -103,6 +103,7 @@ secret.key `
 
 Created by **Prince Amoako Atta**  
 Cybersecurity | Data Analyst
+E-mail: princeamoakoatta22@gmail.com
 
 ---
 
