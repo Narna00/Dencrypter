@@ -32,7 +32,7 @@ Install the required package:
 
 
 pip install cryptography
-
+```bash
 ---
 ### Example Run (sample session)
 $ python dencrypter.py
