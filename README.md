@@ -33,25 +33,23 @@ Install the required package:
 
 pip install cryptography
 
-```bash
----
 ### Example Run (sample session)
+
+```bash
 $ python dencrypter.py
 === AES Encryption & Decryption Tool ===
 :) Key already exists. Loaded for use.
 Choose action - encrypt or decrypt: encrypt
 Enter the message you want to encrypt: secret data
-
 Encrypted Message:
 gAAAAABk... (pasteable token)
-
 $ python dencrypter.py
 === AES Encryption & Decryption Tool ===
 :) Key already exists. Loaded for use.
 Choose action - encrypt or decrypt: decrypt
 Paste the encrypted message: gAAAAABk...
 Decrypted Message:
-secret data ```bash
+secret data
 
 
 **### File Structure**
@@ -103,7 +101,7 @@ secret.key `
 ### Author
 
 Created by **Prince Amoako Atta**  
-Cybersecurity Enthusiast | Data Analyst
+Cybersecurity | Data Analyst
 
 ---
 
