@@ -68,6 +68,7 @@ README.md              # This file
 ```gitignore
 secret.key
 
+
 ### Troubleshooting / FAQ
 
 **Q:** I get `InvalidToken` on decrypt.  
